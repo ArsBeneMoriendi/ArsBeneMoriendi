@@ -6,3 +6,5 @@ i'm currently preparing to matura exam (sth like a-level), so i won't be availab
 - wanting to know & interested in everything
 - scio me nihil scire
 - INTJ/INTP
+- writing mostly in C# (.NET Framework, ASP.NET), but also knowing a bit of C and C++
+- hating py
