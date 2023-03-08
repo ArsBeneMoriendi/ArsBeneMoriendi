@@ -3,8 +3,9 @@ i'm currently preparing to matura exam (sth like a-level), so i won't be availab
 
 # something about me, but still nothing
 - just another not extraordinary person
+- perfectionist
 - wanting to know & interested in everything
 - scio me nihil scire
+- writing mostly in C# (.NET Framework, ASP.NET)
+- polish (native), english (C1/C2), german (B1)
 - INTJ/INTP
-- writing mostly in C# (.NET Framework, ASP.NET), but also knowing a bit of C and C++
-- hating py
