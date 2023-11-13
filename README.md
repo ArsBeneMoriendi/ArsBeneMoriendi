@@ -6,3 +6,5 @@
 - writing mostly in C# (.NET Framework, ASP.NET)
 - polish (native), english (C1/C2), german (B1)
 - INTJ/INTP
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ArsBeneMoriendi&label=Profile%20views&color=000000" alt="ArsBeneMoriendi" /> </p>
