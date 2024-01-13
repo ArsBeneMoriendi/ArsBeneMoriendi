@@ -1,6 +1,5 @@
-# something about me (but still nothing)
-- just another not extraordinary person
-- perfectionist
+# something about me
+- geoinformatics student with a passion for the world, the universe, computer science and information technology
 - wanting to know & interested in everything
 - scio me nihil scire
 - writing mostly in C# (.NET Framework, ASP.NET)
