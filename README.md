@@ -2,7 +2,7 @@
 - geoinformatics student with a passion for the world, the universe, computer science and information technology
 - wanting to know & interested in everything
 - scio me nihil scire
-- writing mostly in C# (.NET Framework, ASP.NET)
+- writing in C, C++, Python, R, C# (.NET Framework, ASP.NET)
 - polish (native), english (C1/C2), german (B1)
 - INTJ/INTP
 
