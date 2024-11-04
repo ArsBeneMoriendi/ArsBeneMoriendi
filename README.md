@@ -1,5 +1,5 @@
 # something about me
-- **programming teacher** at [coding giants](https://www.codinggiants.com/) (teaching C#, Python, C++, Hacking & cybersecurity, Graphics, Maths, Scratch and MakeCode)
+- **programming teacher** at [coding giants](https://www.codinggiants.com/) (teaching C#, Python, Hacking & cybersecurity, Graphics, Maths, Scratch and MakeCode)
 - **project manager** & **UI/UX designer** at [nove](https://nove.team/)
 - **geoinformatics student** at AGH UST (passionate about the world, the universe, computer science and information technology)
 - wanting to know & interested in everything
